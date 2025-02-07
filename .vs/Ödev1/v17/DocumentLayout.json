@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\kariyer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kariyer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\iletisim.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iletisim.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\subelerimiz.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:subelerimiz.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\giris.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:giris.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\tercih.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tercih.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\Hizmetler.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hizmetler.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\hakk\u0131m\u0131zda.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hakk\u0131m\u0131zda.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "iletisim.html",
+              "DocumentMoniker": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\iletisim.html",
+              "RelativeDocumentMoniker": "iletisim.html",
+              "ToolTip": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\iletisim.html",
+              "RelativeToolTip": "iletisim.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T21:57:11.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "subelerimiz.html",
+              "DocumentMoniker": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\subelerimiz.html",
+              "RelativeDocumentMoniker": "subelerimiz.html",
+              "ToolTip": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\subelerimiz.html",
+              "RelativeToolTip": "subelerimiz.html",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T21:33:51.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tercih.html",
+              "DocumentMoniker": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\tercih.html",
+              "RelativeDocumentMoniker": "tercih.html",
+              "ToolTip": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\tercih.html",
+              "RelativeToolTip": "tercih.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T21:20:53.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kariyer.html",
+              "DocumentMoniker": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\kariyer.html",
+              "RelativeDocumentMoniker": "kariyer.html",
+              "ToolTip": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\kariyer.html",
+              "RelativeToolTip": "kariyer.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T21:19:04.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hizmetler.html",
+              "DocumentMoniker": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\Hizmetler.html",
+              "RelativeDocumentMoniker": "Hizmetler.html",
+              "ToolTip": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\Hizmetler.html",
+              "RelativeToolTip": "Hizmetler.html",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T21:13:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hakk\u0131m\u0131zda.html",
+              "DocumentMoniker": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\hakk\u0131m\u0131zda.html",
+              "RelativeDocumentMoniker": "hakk\u0131m\u0131zda.html",
+              "ToolTip": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\hakk\u0131m\u0131zda.html",
+              "RelativeToolTip": "hakk\u0131m\u0131zda.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T21:01:53.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "giris.html",
+              "DocumentMoniker": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\giris.html",
+              "RelativeDocumentMoniker": "giris.html",
+              "ToolTip": "C:\\Users\\gfb_a\\Desktop\\backend\\\u00D6dev1\\giris.html",
+              "RelativeToolTip": "giris.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T20:45:04.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

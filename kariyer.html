@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kariyer</title>
+</head>
+<body>
+    <h1>Bizimle Çalýþmak Ýster Misin ?</h1>
+    <hr />
+    <p>Bizimle çalýþmak için lütfen aþaðýdaki formu doldurunuz.</p>
+    <form action="tercih.html" method="get">
+        <label for="isim">Adýnýz:</label>
+        <input type="text" name="Ýsim" value="" required/>
+        <br />
+        <label for="soyisim">Soy isminiz:</label>
+        <input type="text" name="soyisim" value="" required />
+        <br />
+        <label for="yas">Yaþýnýz:</label>
+        <input type="number" name="yas" value="" required/>
+        <br />
+        <label for="neden">Bizi Neden Tercih Ettiniz?</label><br>
+        <textarea id="neden" name="neden" rows="4" cols="50" required></textarea>
+        <br />
+        <fieldset>
+            <legend>Çalýþmak Ýstediðiniz Pozisyon:</legend>
+            <label for="garson">
+                <input type="radio" id="garson" name="pozisyon" value="Garson" required> Garson
+            </label><br>
+            
+            <label for="komi">
+                <input type="radio" id="komi" name="pozisyon" value="Komi" required> Komi
+            </label><br>
+
+            <label for="sef">
+                <input type="radio" id="sef" name="pozisyon" value="Þef" required> Þef
+            </label><br>
+
+            <label for="sefyardimcisi">
+                <input type="radio" id="sefyardimcisi" name="pozisyon" value="Þef Yardýmcýsý" required> Þef Yardýmcýsý
+            </label><br><br>
+        </fieldset>
+        <br />
+        <button type="submit">Gönder</button>
+
+
+    </form>
+</body>
+</html>
